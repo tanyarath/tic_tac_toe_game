@@ -18,13 +18,13 @@ A beginner-friendly 2-player **Tic Tac Toe** game written in Python and playable
 ---
 
 ## 📷 Game Preview
-
+'''
 |   |   |   |
 |   |   |   |
 |   |   |   |
 
 PLAYER 1 :: Enter the move you want to play (1-9): 5
-
+'''
 |   |   |   |
 |   | X |   |
 |   |   |   |
